@@ -12,7 +12,7 @@ namespace gittest
         {
             Console.WriteLine("commit 01, push");
             Console.WriteLine("commit 02, no push");
-            Console.WriteLine("commit 03, push");
+            Console.WriteLine("commit 03, push 02 and 03");
         }
     }
 }
