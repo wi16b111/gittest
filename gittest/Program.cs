@@ -10,8 +10,9 @@ namespace gittest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("commit 01");
-            Console.WriteLine("commit 02");
+            Console.WriteLine("commit 01, push");
+            Console.WriteLine("commit 02, no push");
+            Console.WriteLine("commit 03, push");
         }
     }
 }
